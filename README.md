@@ -1,16 +1,51 @@
-### Hi, I am Daniel Delgado! 👋
-- 🌱 I’m currently learning Flutter
 
-<!--
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSemilleroUAO)](https://github.com/anuraghazra/github-readme-stats)
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSemilleroUAO&hide=contribs,prs)
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSemilleroUAO&hide=contribs,prs)
+:computer: _Java Developer_ ☀️ Living in Colmbia :colombia:
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSemilleroUAO&show_icons=true)
+# Hi there, I'm Daniel 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSemilleroUAO&exclude_repo=github-readme-stats,DanielSemilleroUAO.github.io)](https://github.com/DanielSemilleroUAO/github-readme-stats)
--->
+I’m currently working on web development with technologies like Java Spring Boot, Angular, Android Studio, Flutter, etc.
 
-![Java](https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074)
+## About me 
+
+🎮 Gaming | ✈️ Travel | 📚 Learning
+
+- :earth_americas: I'm from Cali - Colombia
+- 📚 I’m currently learning Flutter
+
+## Contact me :mailbox_with_no_mail:
+
+[![Twitter Badge](https://img.shields.io/badge/-@@DanielD60259696-black?style=flat-square&logo=twitter&link=https://twitter.com/DanielD60259696)](https://twitter.com/DanielD60259696)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel Delgado Rodríguez-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/daniel-d-7b2860102/)](https://www.linkedin.com/in/daniel-d-7b2860102/) 
+
+### My Tech Stack
+
+#### Languages
+
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
+#### Technologies
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring)
+
+#### Cloud
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+#### Tools and Others
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat&logo=bitbucket)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=Visual-Studio-Code)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
