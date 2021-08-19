@@ -16,8 +16,8 @@ I’m currently working on web development with technologies like Java Spring Bo
 
 ## Contact me :mailbox_with_no_mail:
 
-[![Twitter Badge](https://img.shields.io/badge/-@@DanielD60259696-black?style=flat-square&logo=twitter&link=https://twitter.com/DanielD60259696)](https://twitter.com/DanielD60259696)
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel Delgado Rodríguez-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/daniel-d-7b2860102/)](https://www.linkedin.com/in/daniel-d-7b2860102/) 
+[![Twitter Badge](https://img.shields.io/badge/-@DanielD60259696-black?style=flat-square&logo=twitter&link=https://twitter.com/DanielD60259696)](https://twitter.com/DanielD60259696)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel Delgado Rodríguez-black?style=flatsquare&logo=Linkedin&link=https://www.linkedin.com/in/daniel-d-7b2860102/)](https://www.linkedin.com/in/daniel-d-7b2860102/) 
 
 ### My Tech Stack
 
