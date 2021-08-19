@@ -27,6 +27,7 @@ I’m currently working on web development with technologies like Java Spring Bo
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
@@ -36,6 +37,8 @@ I’m currently working on web development with technologies like Java Spring Bo
 #### Technologies
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 
 #### Cloud
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
