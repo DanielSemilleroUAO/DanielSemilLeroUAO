@@ -62,6 +62,6 @@ I’m currently working on web development with technologies like Java Spring Bo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSemilleroUAO&layout=compact)](https://github.com/DanielSemilleroUAO/github-readme-stats)
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSemileroUAO&show_icons=true&theme=dark)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSemilleroUAO&show_icons=true&theme=dark)
 
 
