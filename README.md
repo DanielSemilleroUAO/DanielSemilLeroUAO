@@ -40,6 +40,8 @@ I’m currently working on web development with technologies like Java Spring Bo
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 
 #### Cloud
