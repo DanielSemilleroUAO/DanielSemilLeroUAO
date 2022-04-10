@@ -65,6 +65,8 @@ I’m currently working on web development with technologies like Java Spring Bo
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=Visual-Studio-Code)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 
 ### My stats 
 
