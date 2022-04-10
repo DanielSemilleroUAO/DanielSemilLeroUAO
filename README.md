@@ -45,6 +45,7 @@ I’m currently working on web development with technologies like Java Spring Bo
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 
 #### Cloud
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
