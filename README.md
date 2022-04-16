@@ -53,6 +53,10 @@ I’m currently working on web development with technologies like Java Spring Bo
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
 
+### CI
+![Jenkins](https://img.shields.io/badge/jenkins-%232B2F33.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232B2F33.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 #### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
