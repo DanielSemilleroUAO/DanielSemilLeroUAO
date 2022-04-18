@@ -38,22 +38,23 @@ I’m currently working on web development with technologies like Java Spring Bo
 
 
 #### Technologies
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
-![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 #### Cloud
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 #### CI
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232B2F33.svg?style=for-the-badge&logo=githubactions&logoColor=white)
