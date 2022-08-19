@@ -1,7 +1,7 @@
 
 
 
-:computer: _Java Developer_ ☀️ Living in Colmbia :colombia:
+:computer: _Fullstack Developer_ ☀️ Living in Colmbia :colombia:
 
 # Hi there, I'm Daniel 👋
 
